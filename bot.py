@@ -22,7 +22,6 @@ SERIES = [
             "Race: After Qualifying.",
         ],
         "Races": [
-                ("8/4", "Indianapolis Motor Speedway (Road course)"),
                 ("8/11", "Charlotte Motor Speedway (You guessed it)"),  
         ],
     },
@@ -35,7 +34,6 @@ SERIES = [
             "Race: 45 minute after Qualifying."
         ],
         "Races": [
-            ("8/5", "Mid Ohio Raceway"),
             ("8/12", "Rudskogen"),
             ("8/19", "Laguna Seca"),
             ("8/26", "Imola"),
