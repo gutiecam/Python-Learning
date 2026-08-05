@@ -81,7 +81,7 @@ async def on_message(message):
     if message.author == client.user:
         return
     if message.content == "!ping":
-        await message.channel.send("Pong!")
+        await message.channel.send("Pong! (Auto)")
 
 
 @tasks.loop(minutes=1)
